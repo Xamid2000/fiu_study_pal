@@ -1,0 +1,22 @@
+.a 
+{
+  width: 100%;
+  height: auto;
+}
+
+.p
+{
+    position:absolute;
+     width: auto;
+  height: auto;
+    margin-top: 27%;
+    margin-left: 63%;
+}
+.b
+{
+   width: auto;
+  height: auto;
+  position: absolute;
+    margin-top: 15%;
+    margin-left: 70%;
+}
